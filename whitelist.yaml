@@ -6,3 +6,4 @@
 payload:
 #  - IP-CIDR,103.10.124.0/23,no-resolve
   - DOMAIN-SUFFIX,sooplive.com
+  - DOMAIN-SUFFIX,sooplive.co.kr
